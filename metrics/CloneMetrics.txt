@@ -1,0 +1,16 @@
+Clone Classes
+
+Clone Complexity
+
+Clone Coverage
+
+Clone Instances
+
+Clone Line Coverage
+
+Clone Logical Line Coverage
+
+Lines of Duplicated Code
+
+Logical Lines of Duplicated Code
+

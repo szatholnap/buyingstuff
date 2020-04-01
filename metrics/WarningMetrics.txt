@@ -1,0 +1,9 @@
+WarningBlocker
+
+WarningCritical
+
+WarningMajor
+
+WarningMinor
+
+WarningInfo

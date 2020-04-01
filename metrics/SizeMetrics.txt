@@ -1,0 +1,35 @@
+Total Lines of Code
+
+Total Logical Lines of Code
+
+Total Number of Attributes
+
+Total Number of Classes
+
+Total Number of Directories
+
+Total Number of Enums
+
+Total Number of Files
+
+Total Number of Getters
+
+Total Number of Interfaces
+
+Total Number of Methods
+
+Total Number of Packages
+
+Total Number of Public Attributes
+
+Total Number of Public Classes
+
+Total Number of Public Enums
+
+Total Number of Public Interfaces
+
+Total Number of Public Methods
+
+Total Number of Setters
+
+Total Number of Statements
