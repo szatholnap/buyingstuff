@@ -20,7 +20,7 @@ public class Apple extends Groceries {
 
 	public void decreaseQuality() {
 		if(!washed)
-			quality = quality - 50;
+			quality = quality - 60;
 	}
 	
 	/**
