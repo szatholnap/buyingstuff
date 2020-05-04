@@ -28,7 +28,7 @@ public class Orange extends Groceries {
 	 */
 	public Orange() {
 		super();
-		type = "Apple";
+		type = "Orange";
 	}
 	
 	
