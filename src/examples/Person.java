@@ -21,9 +21,9 @@ public class Person {
 		return health;
 	}
 	public void setHealth(int health) {
-		if(this.health < 100)
+		if(this.health < 100) {
 			this.health += health;
-		
+		}
 	}
 
 	String phoneNumber;
