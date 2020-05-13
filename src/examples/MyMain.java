@@ -22,27 +22,28 @@ public class MyMain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Person BT = new Person();
-		BT.setAge(40);
-		BT.setName("Bakota Tibor");
+		Person bati = new Person();
+		bati.setAge(40);
+		bati.setName("Bakota Tibor");
 		printThis();
 		printThat();
 		boolean thereIsAppleAtTheStore = true;
-		if(thereIsAppleAtTheStore)
-			BT.buyApple();
-		for (int i = 0; i < 5; i++) {
-			BT.buyApple();
+		if(thereIsAppleAtTheStore) {
+			bati.buyApple();
 		}
-		BT.eatApple();
-		BT.eatApple();
-		BT.eatApple();
-		BT.eatApple();
-		BT.washApples();
-		BT.eatApple();
+		for (int i = 0; i < 5; i++) {
+			bati.buyApple();
+		}
+		bati.eatApple();
+		bati.eatApple();
+		bati.eatApple();
+		bati.eatApple();
+		bati.washApples();
+		bati.eatApple();
 		
 		for (int i = 0; i < 5; i++) {
-			BT.buyApple();
-			BT.eatApple();
+			bati.buyApple();
+			bati.eatApple();
 		}
 
 		}
